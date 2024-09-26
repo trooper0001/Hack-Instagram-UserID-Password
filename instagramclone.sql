@@ -37,7 +37,7 @@ CREATE TABLE `instadetails` (
 -- Dumping data for table `instadetails`
 --
 
-INSERT INTO `instadetails` (`id`, `username`, `password`) VALUES
+INSERT INTO `instadetails` (`id`, `shreya.rawat_01`, `password`) VALUES
 (4, 'usman', 'usman'),
 (5, 'yusuf', 'yusuf3030'),
 (6, 'asif0.92', 'akmalhadi098');
